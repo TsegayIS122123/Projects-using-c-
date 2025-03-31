@@ -1,2 +1,2 @@
-# Projects-using-c-
-This projects is using c++ programming and including the OOP features
+# Projects-using-c++
+This projects is about ATM machine using c++ programming.
