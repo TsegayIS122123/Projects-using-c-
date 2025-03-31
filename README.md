@@ -1,2 +1,2 @@
 # Projects-using-c++
-This projects is about ATM machine using c++ programming.
+This project is about ATM machine using c++ programming.
